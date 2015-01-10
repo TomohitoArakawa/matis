@@ -1,5 +1,5 @@
 # matis design
-株式会社マチスデザイン(建築会社)のHPを作成
+建築会社のHPを作成
 
 http://www.matis.co.jp/
 
